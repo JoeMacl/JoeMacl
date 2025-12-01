@@ -1,4 +1,4 @@
-# Hi, I'm Joe Maclean
+# Welcome, 
 
 I'm a full-stack developer with experience across TypeScript, Node.js, Angular, React, and SQL.  
 I enjoy building real features end-to-end — from backend logic and APIs to polished frontend UI.
